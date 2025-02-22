@@ -44,5 +44,3 @@ This project applies machine learning techniques to predict the selling price of
 📢 **Contributions are welcome!** Feel free to raise issues or suggest improvements.  
 
 ---
-
-Let me know if you want any modifications! 🚀
